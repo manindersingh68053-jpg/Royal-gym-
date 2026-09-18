@@ -37,3 +37,14 @@ Mallhian is a village in Barnala district, Punjab, India.
 ## 📸 Gallery
 
 Photos and memories of Mallhian will be added here.
+### 🏡 Village Life
+
+Mallhian is known for its peaceful village life, green fields, local culture, and community spirit.
+
+### 🏏 Sports & Activities
+
+Village sports and community activities bring people together and create memorable moments.
+
+### 📍 Location
+
+Mallhian, Barnala, Punjab, India
