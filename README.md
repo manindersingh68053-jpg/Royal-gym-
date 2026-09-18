@@ -34,17 +34,29 @@ Mallhian is a village in Barnala district, Punjab, India.
 - State: Punjab
 - Country: India
 
+## 🏋️ Royal Gym
+
+Welcome to Royal Gym — a place to build strength, fitness, confidence, and a healthy lifestyle.
+
+## 🔥 Features
+
+- Gym workout programs
+- Professional training
+- Modern equipment
+- Fitness guidance
+- Workout gallery
+- Contact information
+
 ## 📸 Gallery
 
-Photos and memories of Mallhian will be added here.
-### 🏡 Village Life
+Check out photos of Royal Gym, workouts, equipment, and fitness activities.
 
-Mallhian is known for its peaceful village life, green fields, local culture, and community spirit.
-
-### 🏏 Sports & Activities
-
-Village sports and community activities bring people together and create memorable moments.
-
-### 📍 Location
+## 📍 Location
 
 Mallhian, Barnala, Punjab, India
+
+## 👨‍💻 Author
+
+**Gurwinder Singh**
+
+B.Tech Computer Science & Engineering
